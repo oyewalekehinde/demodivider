@@ -22,5 +22,3 @@ or a little bit of custom with:
 
 You can support the library by liking it on pub, staring in on Github and reporting any bugs you
 encounter.
-
-# demodivider
